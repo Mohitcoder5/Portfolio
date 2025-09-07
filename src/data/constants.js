@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Mohitcoder5/",
   resume:
-    "https://drive.google.com/file/d/1P3DYKFya-TnDm8KVuIRoHx8i9u4nkN-b/view?usp=drive_link",
+    "https://drive.google.com/file/d/1VbESYKvtvycMF9J3hNfXU4WsI2Ir6Qo5/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohit-patil-9b11772b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   insta: "https://www.instagram.com/_.mohit.04?igsh=MWZ5dTMweDNybmpqeA=="
 };
